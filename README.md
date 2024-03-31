@@ -41,5 +41,5 @@ serverless invoke local --function hello
 **Invoke the function**
 
 ```
-curl https://xxxxxxxxx.execute-api.us-east-1.amazonaws.com/
+curl https://jf9rtj7vol.execute-api.us-east-1.amazonaws.com/
 ```
